@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialDesing</string>
+    <string name="txtName">Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPassword">Password</string>
+    <string name="txtConfirmPassword">Confirm Password</string>
+    <string name="sing_up">Sing Up</string>
+</resources>
